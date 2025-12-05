@@ -6,7 +6,7 @@ public class TestConfiguracion {
 
     public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
-	System.out.println("Escribe algo, por favor");
+	System.out.println("Escribe algo, por favor que son as 6:42");
 	String algo = sc.nextLine();
 
 	int variableInutil = 10;
